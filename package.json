@@ -1,0 +1,16 @@
+{
+  "name": "yumnet-v2",
+  "version": "1.0.0",
+  "description": "A recipe sharing platform for everyone and opensource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "baceknd"
+  ],
+  "author": "subhan kashif",
+  "license": "ISC"
+}
