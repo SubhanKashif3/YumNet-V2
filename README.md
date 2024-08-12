@@ -6,4 +6,16 @@ YumNet v2 is the second varient of YumNet because it failed. it is second attemp
 ## Our Proud 👍
 Made In Pakistan , Open source
 
+## Technologies and Libraries used 🚀
+- js 
+- nodejs
+- express
+- cors
+- mongoose
+- firebase storage
+- firebase auth
+- cookie parser
+- jsonwebtoken
+- bcrypt
+- dotenv
 
